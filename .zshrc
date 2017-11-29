@@ -1,7 +1,7 @@
 #################################################
-# medpeer toolbox
+# homebrew
 #################################################
-export PATH=$HOME/workspace/medpeer/toolbox/bin:$PATH
+export PATH=/usr/local/bin:$PATH
 
 #################################################
 # zsh-syntax-highlighting
